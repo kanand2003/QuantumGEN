@@ -1,1 +1,6 @@
 # QuantumGEN
+Quantum computing has gained significant traction across various fields due to its accelerated processing and optimized functionality, offering considerable advantages over classical methods. This project focuses on leveraging variational quantum circuits for processing the Cifar10 dataset, particularly in the realm of neural networking. However, the inclusion of random hyperparameters within this Quantum Machine Learning (QML) circuit presents a challenging task. To address this, a Genetic Algorithm is employed to optimize these hyperparameters.
+
+The core objective is to determine the most efficient theta value through the Genetic Algorithm. This optimized value is then tested within the model to assess whether it leads to a reduction in loss, thereby fine-tuning and improving the overall performance.
+
+In essence, the project involves utilizing quantum computing through variational quantum circuits for processing the Cifar10 dataset. Random hyperparameters within the Quantum Machine Learning circuit present a challenge, which is addressed by employing a Genetic Algorithm for optimization. The goal is to identify the most effective theta value that, when implemented in the model, reduces loss and ultimately enhances the performance.
